@@ -1,4 +1,5 @@
 # vue-app
+- [View Demo](https://ejies.github.io/CRUD-with-VUE/)
 
 ## Project setup
 ```
